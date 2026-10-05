@@ -48,3 +48,4 @@ FAT32 adalah sistem file yang sederhana dan dapat digunakan pada berbagai sistem
 
 •	Btrfs :
 Btrfs adalah filesystem Linux yang dirancang dengan fitur pengelolaan data yang lebih modern. Beberapa kemampuannya meliputi pembuatan snapshot, pemeriksaan integritas data, dan kompresi, sehingga pengelolaan serta pemulihan data dapat dilakukan dengan lebih fleksibel. 
+
