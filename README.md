@@ -29,20 +29,20 @@ Jawab : Mount Point “/” perlu dipilih karena merupakan root directory atau d
 3. Berikan penjelasan tentang ext4, ext3, swap, ntfs, fat32,btrfs !
    
 Jawab : 
-•	Ext3 
+•	Ext3 : 
 Ext3 adalah sistem file yang digunakan pada Linux dan merupakan penerus dari Ext2. Salah satu kelebihannya adalah adanya sistem journal yang membantu mencatat perubahan sebelum disimpan sepenuhnya. Hal ini dapat membantu proses pemulihan data apabila terjadi gangguan pada sistem.
 
-•	Ext4 
+•	Ext4 :
 Ext4 merupakan generasi setelah Ext3 yang memiliki peningkatan dalam pengelolaan penyimpanan. Filesystem ini mampu mendukung kapasitas disk dan ukuran file yang lebih besar serta bekerja lebih efisien. Ext4 juga menjadi salah satu filesystem yang umum digunakan pada Linux. 
 
-•	Swap 
+•	Swap :
 Swap adalah bagian dari media penyimpanan yang disediakan untuk membantu kerja RAM. Ketika memori utama mulai penuh, Linux dapat menggunakan ruang swap sebagai memori virtual untuk membantu menjalankan proses yang sedang aktif. 
 
-•	NTFS 
+•	NTFS :
 NTFS merupakan sistem file yang dikembangkan oleh Microsoft dan banyak digunakan pada Windows. Sistem ini mendukung penyimpanan file berukuran besar serta menyediakan fitur seperti pengaturan izin akses dan keamanan data. 
 
-•	FAT32 
+•	FAT32 :
 FAT32 adalah sistem file yang sederhana dan dapat digunakan pada berbagai sistem operasi. Karena kompatibilitasnya luas, FAT32 sering digunakan pada media penyimpanan tertentu. Namun, kelemahannya adalah ukuran satu file dibatasi hingga sekitar 4 GB. 
 
-•	Btrfs 
+•	Btrfs :
 Btrfs adalah filesystem Linux yang dirancang dengan fitur pengelolaan data yang lebih modern. Beberapa kemampuannya meliputi pembuatan snapshot, pemeriksaan integritas data, dan kompresi, sehingga pengelolaan serta pemulihan data dapat dilakukan dengan lebih fleksibel. 
