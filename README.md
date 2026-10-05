@@ -22,9 +22,12 @@ Tahap 4:
 <img width="547" height="433" alt="Picture2" src="https://github.com/user-attachments/assets/396bb988-7630-41d7-9c2e-228be8d2f788" />
 
   
-2.	Analisislah pada gambar kenapa saat instalasi perlu dipilih “/” pada opsi Mount Point ? Jawab : Mount Point “/” perlu dipilih karena merupakan root directory atau direktori utama dalam sistem Linux. Root menjadi lokasi dasar bagi direktori penting seperti /etc, /usr, /var, dan /home. Dengan menentukan Mount Point “/”, sistem operasi memiliki tempat utama untuk menginstal, menyimpan, dan menjalankan berbagai file serta komponen yang diperlukan agar Linux dapat bekerja dengan baik. 
+2.	Analisislah pada gambar kenapa saat instalasi perlu dipilih “/” pada opsi Mount Point ?
+
+Jawab : Mount Point “/” perlu dipilih karena merupakan root directory atau direktori utama dalam sistem Linux. Root menjadi lokasi dasar bagi direktori penting seperti /etc, /usr, /var, dan /home. Dengan menentukan Mount Point “/”, sistem operasi memiliki tempat utama untuk menginstal, menyimpan, dan menjalankan berbagai file serta komponen yang diperlukan agar Linux dapat bekerja dengan baik. 
  
-3.	Berikan penjelasan tentang ext4, ext3, swap, ntfs, fat32,btrfs ! 
+3. Berikan penjelasan tentang ext4, ext3, swap, ntfs, fat32,btrfs !
+   
 Jawab : 
 •	Ext3 
 Ext3 adalah sistem file yang digunakan pada Linux dan merupakan penerus dari Ext2. Salah satu kelebihannya adalah adanya sistem journal yang membantu mencatat perubahan sebelum disimpan sepenuhnya. Hal ini dapat membantu proses pemulihan data apabila terjadi gangguan pada sistem.
