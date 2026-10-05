@@ -3,18 +3,22 @@
 1.	Buatlah laporan proses instalasi di komputer mahasiswa dan tampilkan screenshot-nya.
    
 Tahap 1: 
+
 <img width="658" height="447" alt="Picture3" src="https://github.com/user-attachments/assets/f9658cb9-337c-43ad-beaf-5f23ea204677" />
 
   
-Tahap 2: 
+Tahap 2:
+
 <img width="547" height="336" alt="Picture4" src="https://github.com/user-attachments/assets/bcad5094-7462-42ed-b67f-f130e5172461" />
 
   
 Tahap 3: 
+
 <img width="546" height="380" alt="Picture1" src="https://github.com/user-attachments/assets/17f25ba2-3c25-4582-9fda-e19f47ae41b7" />
 
   
 Tahap 4: 
+
 <img width="547" height="433" alt="Picture2" src="https://github.com/user-attachments/assets/396bb988-7630-41d7-9c2e-228be8d2f788" />
 
   
